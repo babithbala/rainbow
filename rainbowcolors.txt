@@ -1,0 +1,4 @@
+Current Setup
+You now have a project directory called rainbow that has a .git directory inside it, and you also have one file, called rainbowcolors.txt, in your working directory.
+The staging area and commit history are empty because you have not yet made any commits in the rainbow repository.
+This can all be seen in Visualize It 3-1.
